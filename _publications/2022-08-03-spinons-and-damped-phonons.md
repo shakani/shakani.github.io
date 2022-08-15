@@ -6,6 +6,4 @@ date: 2022-08-03
 venue: 'Phys. Rev. B'
 ---
 
-[PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.075108)
-
-[arXiv](https://arxiv.org/abs/2110.15916)
+Download from [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.075108) or [arXiv](https://arxiv.org/abs/2110.15916)
