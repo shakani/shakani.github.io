@@ -1,14 +1,13 @@
 ---
-title: "Yale College"
+title: "Yale University"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/yale
-venue: "Yale College, Math Department"
-Date: 2018-01-02
+venue: "Yale University, Math Department"
 location: "New Haven, Connecticut"
 ---
 
-Undergraduate Peer Tutor
+Undergraduate Peer Tutorship
 
 | Semester, Year | Course Number | Course Title                         | Number of Students | Description                                                              |
 |----------------|---------------|--------------------------------------|--------------------|--------------------------------------------------------------------------|
