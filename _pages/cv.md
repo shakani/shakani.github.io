@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics, Georgia Institute of Technology, 2025 (expected)
+  * Advisor: Itamar Kimchi
+* M.S. in Physics, Georgia Institute of Technology, 2014
+  * (GPA: 4.00)
+* B.S. in Physics, Electrical Engineering, Yale College, 2018
+  * Advisor: Nir Navon
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Student Researcher (2019 - present)
+  * School of Physics, Georgia Institute of Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Teaching Assistant (2019 - present)
+  * School of Physics, Georgia Institute of Technology
+
+* Postgraduate Research Assistant (2018 - 2019)
+  * Physics Department, Yale University
+  * Advisor: Nir Navon
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * English (fluent)
+  * Urdu (native)
+  * Spanish (conversational)
+* Programming Languages
+  * Python (proficient)
+  * MATLAB
+  * Mathematica 
+  * C++ (novice)
+  * LaTeX
+* Frameworks
+  * NumPy
+  * Pandas
+  * TeNPy
+* Platforms
+  * Linux
+  * Windows
+  * Arduino
 
 Publications
 ======
@@ -56,4 +71,16 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President of Graduate Association of Physicists (GAP) (2022 - present)
+  * Leads a graduate student organization (+100 members) in the Georgia Tech School of Physics aiming to provide mentoring, networking and career development opportunities to physics PhD students
+  * Bringing in speakers who earned PhDs in physics and work outside of academia
+  * Organizing physics community outreach events
+  * Facilitating mentoring sessions for incoming first year physics PhD students to help them get acclimated with their new responsibilities and roles
+  * Organizing department-wide social events
+  * Liasing between the faculty and graduate students to improve student life
+* Student Organizer for Quantum Materials Cookies & Coffee (2021 - present)
+  * International speaker series focusing on quantum materials (20 members).
+  * Leads weekly meetings and organizes student speaker schedule
+* Student Organizer for Quantum Journal Club (2021)
+  * Leads and organizes student-led journal club focusing on condensed matter and atomic, molecular, optical physics for undergraduates, graduate students,
+and faculty (40 members)
