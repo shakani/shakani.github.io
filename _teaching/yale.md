@@ -2,6 +2,7 @@
 title: "Yale University"
 collection: teaching
 type: "Undergraduate"
+date: 2018-01-01
 permalink: /teaching/yale
 venue: "Yale University, Math Department"
 location: "New Haven, Connecticut"
