@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2022-08-03-spinons-and-damped-phonons
 date: 2022-08-03
 venue: 'Phys. Rev. B'
-paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.075108'
 ---
 
 [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.075108)
