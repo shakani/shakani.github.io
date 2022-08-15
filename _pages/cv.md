@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, Georgia Institute of Technology, 2025 (expected)
+* Ph.D in Physics, Georgia Institute of Technology, 2019 - present
   * Advisor: Itamar Kimchi
-* M.S. in Physics, Georgia Institute of Technology, 2014
+* M.S. in Physics, Georgia Institute of Technology, 2019 - present
   * (GPA: 4.00)
 * B.S. in Physics, Electrical Engineering, Yale College, 2018
   * Advisor: Nir Navon
