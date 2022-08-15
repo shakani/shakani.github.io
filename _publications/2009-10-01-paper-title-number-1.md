@@ -1,8 +1,7 @@
 ---
 title: "Spinons and damped phonons in the spin-1/2 quantum liquid Ba4Ir3O10 observed by Raman scattering"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: <!-- 'My first publication!' -->
+permalink: /publication/2022-08-03-spinons-and-damped-phonons
 date: 2022-08-03
 venue: 'Phys. Rev. B'
 paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.075108'
