@@ -2,12 +2,13 @@
 title: "Georgia Tech"
 collection: teaching
 permalink: /teaching/gatech
-venue: "University 1, Department"
+type: "Undergraduate, Graduate"
+venue: "Georgia Institute of Technology, School of Physics"
 location: "Atlanta, Georgia"
 ---
 
-Teaching at Georgia Tech
-======
+
+
 
 | Semester, Year | Course Number | Course Title         | Number of Students | Description                                                                |
 |----------------|---------------|----------------------|--------------------|----------------------------------------------------------------------------|
