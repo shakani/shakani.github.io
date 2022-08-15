@@ -9,4 +9,4 @@ paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.075108'
 
 [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.075108)
 
-[arXiv](https://arxiv.org/pdf/2110.15916.pdf)
+[arXiv](https://arxiv.org/abs/2110.15916)
