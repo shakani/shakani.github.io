@@ -1,12 +1,14 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /contact/
+title: "Contact"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
+## School of Physics, Georgia Institute of Technology
+Address: 837 State Street, Atlanta, GA 30332, USA
+Office: Howey Physics Building, E101
+
+<!--
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -200,3 +202,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+-->
