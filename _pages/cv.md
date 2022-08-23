@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV
+===
+[Available here](https://www.dropbox.com/s/4k7ve2snuejpk9p/Hakani_CV.pdf?dl=0)
+
 Education
 ======
 * Ph.D in Physics, Georgia Institute of Technology, 2019 - present
