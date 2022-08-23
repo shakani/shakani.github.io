@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](https://www.dropbox.com/s/4k7ve2snuejpk9p/Hakani_CV.pdf?dl=0)"
 permalink: /cv/
 author_profile: true
 redirect_from:
