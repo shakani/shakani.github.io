@@ -82,6 +82,9 @@ Service and leadership
   * Facilitating mentoring sessions for incoming first year physics PhD students to help them get acclimated with their new responsibilities and roles
   * Organizing department-wide social events
   * Liasing between the faculty and graduate students to improve student life
+* College of Sciences (CoS) Dean's Graduate Advisory Council
+  * Discuss and advise deans on decisions affecting CoS graduate students
+  * Bridging graduate students and CoS administration
 * Student Organizer for Quantum Materials Cookies & Coffee (2021 - present)
   * International speaker series focusing on quantum materials (20 members).
   * Leads weekly meetings and organizes student speaker schedule
