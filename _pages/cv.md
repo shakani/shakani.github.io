@@ -11,7 +11,7 @@ redirect_from:
 
 Full CV
 ===
-[Available here](https://www.dropbox.com/s/4k7ve2snuejpk9p/Hakani_CV.pdf?dl=0)
+[Available here](https://shakani.github.io/files/Hakani_CV.pdf)
 
 Education
 ======
