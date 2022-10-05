@@ -85,6 +85,10 @@ Service and leadership
 * College of Sciences (CoS) Dean's Graduate Advisory Council (2022 - present)
   * Discuss and advise deans on decisions affecting CoS graduate students
   * Bridging graduate students and CoS administration
+* Equity in Graduate Education Consortium (2022- present)
+  * building capacity for equitable practices in PhD programs via innovative professional development
+  * facilitating the development of sustainable infrastructure for faculty learning & institutional change
+  * conducting and translating research that is inspired by community needs
 * Student Organizer for Quantum Materials Cookies & Coffee (2021 - present)
   * International speaker series focusing on quantum materials (20 members).
   * Leads weekly meetings and organizes student speaker schedule
