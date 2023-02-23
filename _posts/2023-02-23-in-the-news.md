@@ -1,5 +1,5 @@
 ---
-title: 'New Website!'
+title: 'In the news!'
 date: 2023-02-23
 permalink: /posts/2023-02-23-in-the-news/
 tags:
