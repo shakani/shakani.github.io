@@ -8,6 +8,16 @@ venue: "Georgia Institute of Technology, School of Physics"
 location: "Atlanta, Georgia"
 ---
 
+Guest Lectures
+
+
+
+| Semester, Year | Course Number | Course Title         | Number of Students | Description                                                                |
+|----------------|---------------|----------------------|--------------------|----------------------------------------------------------------------------|
+| Spring, 2023   | PHYS 6106     | Quantum Mechanics II | 23                 | Using perturbation theory to derive effective Hamiltonians.                |
+
+
+
 Graduate Teaching Assistantships
 
 
