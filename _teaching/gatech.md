@@ -25,8 +25,8 @@ Graduate Teaching Assistantships
 | Semester, Year | Course Number | Course Title         | Number of Students | Description                                                                |
 |----------------|---------------|----------------------|--------------------|----------------------------------------------------------------------------|
 | Spring, 2023   | PHYS 6106     | Quantum Mechanics II | 23                 | Medium lecture, core graduate curriculum course for physics PhD students.  |
-| Fall, 2021     | PHYS 6105     | Quantum Mechanics I  | 33                 | Medium lecture, core graduate curriculum course for physics PhD students.  |
 | Summer, 2021   | PHYS 2211     | Intro Physics I      | 288                | Large lecture, calculus-based physics course for engineers and scientists. |
+| Fall, 2021     | PHYS 6105     | Quantum Mechanics I  | 33                 | Medium lecture, core graduate curriculum course for physics PhD students.  |
 | Spring, 2021   | PHYS 6106     | Quantum Mechanics II | 34                 | Medium lecture, core graduate curriculum course for physics PhD students.  |
 | Fall, 2020     | PHYS 6101     | Classical Mechanics  | 8                  | Small lecture, core graduate curriculum course for physics PhD students.   |
 | Summer, 2020   | PHYS 2211     | Intro Physics I      | 200                | Large lecture, calculus-based physics course for engineers and scientists. |
