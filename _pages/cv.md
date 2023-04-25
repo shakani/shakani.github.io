@@ -47,6 +47,7 @@ Skills
   * C++ (novice)
   * LaTeX
 * Frameworks
+  * Scikit-learn
   * NumPy
   * Pandas
   * TeNPy
