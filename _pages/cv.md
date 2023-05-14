@@ -47,9 +47,13 @@ Skills
   * C++ (novice)
   * LaTeX
 * Frameworks
+  * TensorFlow
   * Scikit-learn
-  * NumPy
   * Pandas
+  * NumPy
+  * Seaborn
+  * Matplotlib
+  * BeautifulSoup
   * TeNPy
 * Platforms
   * Linux
