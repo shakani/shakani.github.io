@@ -80,17 +80,17 @@ Teaching
   
 Service and leadership
 ======
-* President of Graduate Association of Physicists (GAP) (2022 - present)
+* President of Graduate Association of Physicists (GAP) (2022 - 2023)
   * Leads a graduate student organization (+100 members) in the Georgia Tech School of Physics aiming to provide mentoring, networking and career development opportunities to physics PhD students
   * Bringing in speakers who earned PhDs in physics and work outside of academia
   * Organizing physics community outreach events
   * Facilitating mentoring sessions for incoming first year physics PhD students to help them get acclimated with their new responsibilities and roles
   * Organizing department-wide social events
   * Liasing between the faculty and graduate students to improve student life
-* College of Sciences (CoS) Dean's Graduate Advisory Council (2022 - present)
+* College of Sciences (CoS) Dean's Graduate Advisory Council (2022 - 2023)
   * Discuss and advise deans on decisions affecting CoS graduate students
   * Bridging graduate students and CoS administration
-* Equity in Graduate Education Consortium (2022- present)
+* Equity in Graduate Education Consortium (2022 - 2023)
   * building capacity for equitable practices in PhD programs via innovative professional development
   * facilitating the development of sustainable infrastructure for faculty learning & institutional change
   * conducting and translating research that is inspired by community needs
