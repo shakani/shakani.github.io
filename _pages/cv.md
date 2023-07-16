@@ -11,7 +11,7 @@ redirect_from:
 
 Full CV
 ===
-[Available here](https://shakani.github.io/files/Hakani_CV.pdf)
+[Available here](https://shakani.github.io/files/Hakani_CV_2023.pdf)
 
 Education
 ======
