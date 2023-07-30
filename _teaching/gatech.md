@@ -14,7 +14,7 @@ Guest Lectures
 
 | Semester, Year | Course Number | Course Title         | Number of Students | Description                                                                |
 |----------------|---------------|----------------------|--------------------|----------------------------------------------------------------------------|
-| Spring, 2023   | PHYS 6106     | Quantum Mechanics II | 23                 | Using perturbation theory to derive effective Hamiltonians.                |
+| Spring, 2023   | PHYS 6106     | Quantum Mechanics II | 23                 | Using perturbation theory to derive effective Hamiltonians. ([Lecture Notes](https://shakani.github.io/files/PHYS_6106_Superexchange_Lecture_Notes.pdf))                |
 
 
 
