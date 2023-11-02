@@ -1,7 +1,7 @@
 ---
-title: 'CMR Preprint!'
-date: 2022-09-19
-permalink: /posts/2022-09-19-cmr-preprint/
+title: 'Preprint on crystal defects in response theory'
+date: 2023-11-01
+permalink: /posts/2023-11-01-crystal-defects/
 tags:
 
 ---
