@@ -15,9 +15,9 @@ Full CV
 
 Education
 ======
-* Ph.D in Physics, Georgia Institute of Technology, 2019 - present
+* Ph.D in Physics, Georgia Institute of Technology, 2019 - 2024
   * Advisor: Itamar Kimchi
-* M.S. in Physics, Georgia Institute of Technology, 2019 - present
+* M.S. in Physics, Georgia Institute of Technology, 2019 - 2023
   * (GPA: 4.00)
 * B.S. in Physics, Electrical Engineering, Yale College, 2018
   * Advisor: Nir Navon
