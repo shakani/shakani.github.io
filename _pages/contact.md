@@ -4,8 +4,6 @@ title: "Contact"
 author_profile: true
 ---
 
-## School of Physics, Georgia Institute of Technology
-
 DM me on [Twitter](https://x.com/samihakani) or [LinkedIn](https://www.linkedin.com/in/samihakani/)!
 
 <!--
