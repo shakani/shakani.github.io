@@ -1,8 +1,8 @@
 ---
 title: "Crystalline topological defects within response theory"
 collection: publications
-permalink: /publication/2023-11-01-crystalline-defects
-date: 2023-11-01
+permalink: /publication/2024-06-10-crystalline-defects
+date: 2024-06-10
 venue: 'Phys. Rev. B'
 ---
 
