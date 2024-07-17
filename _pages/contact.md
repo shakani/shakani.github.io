@@ -6,9 +6,7 @@ author_profile: true
 
 ## School of Physics, Georgia Institute of Technology
 
-Address: 837 State Street, Atlanta, GA 30332, USA
-
-Office: Howey Physics Building, E101
+DM me on [Twitter](https://x.com/samihakani) or [LinkedIn](https://www.linkedin.com/in/samihakani/)!
 
 <!--
 ## Locations of key files/directories

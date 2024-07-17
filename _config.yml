@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sami Hakani"
+title                    : "Sami Hakani, PhD"
 title_separator          : "-"
 name                     : &name "Sami Hakani"
-description              : &description "Physics PhD Candidate at Georgia Tech"
+description              : &description "Machine Learning Engineer"
 url                      : https://shakani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shakani/shakani.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cU7mAUsAAAAJ&hl=en"
-  email            : "shakani3@gatech.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   arXiv            : "https://arxiv.org/search/?query=Sami+Hakani&searchtype=all&source=header"
