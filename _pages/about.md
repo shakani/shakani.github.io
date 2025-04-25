@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Sami Hakani, and I am a Machine Learning engineer at [QuadSci](https://www.quadsci.ai/). 
+Hello! My name is Sami Hakani, and I am a machine learning engineer in industry. 
 
 Previously, I obtained my PhD in theoretical physics from Georgia Tech and my BS in physics and electrical engineering from Yale University.
 
